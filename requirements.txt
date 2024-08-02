@@ -1,0 +1,5 @@
+flask==2.2.3
+markupsafe==2.1.2
+snowflake-connector-python==3.0.3
+pymongo==4.3.3
+streamlit==1.25.0
